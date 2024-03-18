@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "About:Blank Games Remover",
+  "version": "1.0",
+  "description": "Removes Games From About:Blank",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
