@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "About:Blank Games Remover",
-  "version": "1.1.0",
+  "version": "1.1.1",
+  "update_url": "https://raw.githubusercontent.com/block-csv/AboutBlankGamesBlocker/main/update.xml",
   "description": "Removes Games From About:Blank",
   "permissions": [
     "tabs"
